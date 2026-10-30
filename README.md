@@ -1,1 +1,1 @@
-# TripMate-Multi-Agent-AI-Travel-Planner-using-MCP-
+# TripMate-Multi-Agent-AI-Travel-Planner-using-MCP
